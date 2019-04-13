@@ -63,9 +63,9 @@ namespace NightClock.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon Stalker018_Mmii_Flat_Vol_2_Clock_digital_2 {
+        internal static System.Drawing.Icon digital_clock {
             get {
-                object obj = ResourceManager.GetObject("Stalker018_Mmii_Flat_Vol_2_Clock_digital_2", resourceCulture);
+                object obj = ResourceManager.GetObject("digital_clock", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
