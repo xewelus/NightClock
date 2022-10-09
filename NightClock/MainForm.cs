@@ -10,7 +10,6 @@ namespace NightClock
 		{
 			this.InitializeComponent();
 			this.Location = new Point();
-			this.Size = Screen.PrimaryScreen.Bounds.Size;
 		}
 
 		private void timer_Tick(object sender, EventArgs e)
